@@ -1,0 +1,6 @@
+interface:
+  display_name: "蒸馏你的师兄帮你改稿"
+  short_description: "先学习你提供的参考论文，再帮你审稿、讨论课题、写作改稿、答疑与日常交流"
+  default_prompt: "请使用 $distill-senior-paper-mentor，先检查我的本地参考论文与写作档案；未建档时先从我提供的论文学习，再根据我的要求审稿、讨论课题或改稿。"
+policy:
+  allow_implicit_invocation: true

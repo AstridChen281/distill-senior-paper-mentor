@@ -1,0 +1,15 @@
+# User-provided papers and all personalized artifacts stay local.
+library/
+uploads/
+corpus/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pdf
+*.docx
+*.bib
+*.tex
+*.zip
+*.tar
+*.gz
